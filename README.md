@@ -1,4 +1,4 @@
-# ESP-Controll 🚀
+# ESP-Controll 
 
 **ESP-Controll** is an embedded project based on the **ESP32-C3**, featuring an **OLED display** and **4 physical buttons** for navigation and control.  
 Designed for learning, experimentation, and portable embedded interfaces.
@@ -13,7 +13,7 @@ To build this project you will need:
 - **3.3V Battery** *(optional)*
 - **Power Switch** *(optional)*
 
-## 🔌 Pin Configuration
+##  Pin Configuration
 
 ### OLED Display → ESP32-C3
 
@@ -41,7 +41,7 @@ To build this project you will need:
 - Battery-powered (optional)
 - Ideal for custom controllers and small UIs
 
-## 🛠️ Setup & Installation
+##  Setup & Installation
 
 1. Connect all components following the pin table above.
 2. Install the **ESP32 board package** in the Arduino IDE.
@@ -51,18 +51,18 @@ To build this project you will need:
 4. Upload the code to your ESP32-C3.
 5. Power the board via USB or battery.
 
-## 📸 Preview
+##  Preview
 
 *(Add photos or screenshots of the project here)*
 
-## 📚 Future Improvements
+##  Future Improvements
 
 - Add more menu pages
 - Power management (deep sleep)
 - Bluetooth / Wi-Fi control
 - Custom icons and animations
 
-## 👤 Author
+##  Author
 
 **KyrexX**  
 ESP32-C3 Embedded Project
