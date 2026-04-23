@@ -1,6 +1,6 @@
 # ESP-Controll 
 
-**ESP-Controll** is an embedded project based on the **ESP32-C3**but also works on any other board such as **ESP32**, featuring an **OLED display** and **4 physical buttons** for navigation and control.  
+**ESP-Controll** is an embedded project based on the **ESP32-C3** but also works on any other board such as **ESP32**, featuring an **OLED display** and **4 physical buttons** for navigation and control.  
 Designed for learning, experimentation, and portable embedded interfaces.
 
 ## 📦 Hardware Requirements
