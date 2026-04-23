@@ -53,7 +53,8 @@ To build this project you will need:
 
 ##  Preview
 
-*(Add photos or screenshots of the project here)*
+<img width="977" height="612" alt="image" src="https://github.com/user-attachments/assets/7c2a6d94-fc61-4ee2-9a00-74dd4f73e7c4" />
+
 
 ##  Future Improvements
 
