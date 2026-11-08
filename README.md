@@ -3,7 +3,7 @@
 **ESP-Controll** is an embedded project based on the **ESP32-C3** but also works on any other board such as **ESP32**, featuring an **OLED display** and **4 physical buttons** for navigation and control.  
 Designed for learning, experimentation, and portable embedded interfaces.
 
-## 📦 Hardware Requirements
+##  Hardware Requirements
 
 To build this project you will need:
 
@@ -33,7 +33,7 @@ To build this project you will need:
 | BTN_OK   | GPIO 7       |
 | BTN_BACK | GPIO 8       |
 
-## ⚙️ Features
+##  Features
 
 - OLED menu interface
 - Button-based navigation
@@ -68,7 +68,7 @@ To build this project you will need:
 **KyrexX**  
 ESP32-C3 Embedded Project
 
-## 📄 License
+##  License
 
 This project is open-source.  
 You are free to use, modify, and distribute it.
